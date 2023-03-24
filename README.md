@@ -1,7 +1,10 @@
-# <p align="cneter">Hi,👋  I'm Lokesh</p>
+# <p align="center">Hi,👋  I'm Lokesh </p> 
+<h3 align="center">Proactively Seeking New Opportunities to Grow and Contribute to IT Industry | Student | Learner | IT Engineer </h3> <br>
 
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
+## 💫 About Me:
+🔭 I’m currently working on web development<br>🌱 I’m currently learning Javascriptand Data Structures in C<br>💬 Ask me about C, HTML5 and CSS3<br>
+📫 How to reach me lokesh.ec23@gmail.com
 
 
 ## 🌐 Socials:
