@@ -1,5 +1,5 @@
 # <p align="center">Hi,👋  I'm Lokesh </p> 
-<h3 align="center">Proactively Seeking New Opportunities to Grow and Contribute to IT Industry | Student | Learner | IT Engineer </h3> <br>
+<h3 align="center">Passionate Trainee Programmer | Aspiring to Master Coding and Innovate Solutions | Committed to Continuous Learning and Building a Bright Future in Software Development </h3> <br>
 
 
 ## 💫 About Me:
