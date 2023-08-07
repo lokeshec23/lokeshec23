@@ -3,7 +3,7 @@
 
 
 ## 💫 About Me:
-🔭 I’m currently working on web development<br>🌱 I’m currently learning Javascriptand Data Structures in C<br>💬 Ask me about C, HTML5 and CSS3<br>
+🔭 I’m currently working on web development<br>🌱 I’m currently learning Javascript <br>💬 Ask me about C, HTML5 and CSS3<br>
 📫 How to reach me lokesh.ec23@gmail.com
 
 
