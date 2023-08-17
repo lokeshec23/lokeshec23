@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/lokeshec23?label=Follow&style=social)](https://github.com/anburockylokeshec23)
 ![](https://komarev.com/ghpvc/?username=lokeshec23&color=green)
-[![Linkedin](https://img.shields.io/badge/-Lokesh-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lokeshec23/)](https://www.linkedin.com/in/lokeshec23/)
+[![Linkedin](https://img.shields.io/badge/-Lokesh-blue?style=flat-square&logo=linkedin&logoColor=white&link=https:[//www.linkedin.com/in/lokeshec23/](https://www.linkedin.com/in/lokesh-ec23/))](https://www.linkedin.com/in/lokeshec23/)
 
 
 
