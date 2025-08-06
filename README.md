@@ -58,7 +58,7 @@ I’m a passionate **Software Engineer** who loves to build, learn, and innovate
 ## 🌱 Let's Connect
 
 If you’re working on exciting projects, collaborations, or just want to connect and share ideas—  
-📬 Drop me a message on [LinkedIn](https://www.linkedin.com/in/lokeshec23/), or follow me here on GitHub!
+📬 Drop me a message on [LinkedIn](https://www.linkedin.com/in/lokesh-ec23/), or follow me here on GitHub!
 
 ---
 
